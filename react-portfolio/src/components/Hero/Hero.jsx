@@ -9,11 +9,15 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Olha</h1>
         <p className={styles.description}>
-          I'm a full-stack developer with 5 years of experience using React and
-          NodeJS. Reach out if you'd like to learn more!
+        I'm a trainee full-stack developer with a strong enthusiasm for learning and growth. 
+        I’m passionate about exploring new technologies and applying my skills to real-world projects.
         </p>
-        <a href="mailto:olhachumbash@gmail.com" className={styles.contactBtn}>
-          Contact Me
+        <a 
+          href="hero/Olha_Chumbash_resume.docx" 
+          download 
+          className={styles.contactBtn}
+        >
+          Download my Resume
         </a>
       </div>
       <img

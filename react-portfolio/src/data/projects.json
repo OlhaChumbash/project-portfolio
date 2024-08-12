@@ -1,26 +1,49 @@
-[
-  {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+[  {
+    "title": "Kava Veterana",
+    "imageSrc": "projects/kava_veterana.JPG",
+    "description": "Admin Panel for Mobile Application.",
+    "skills": ["NodeJs", "JavaScript", "MongoDB", "jQuery", "Ejs"],
+    "demo": "https://kavaveterana-api.intita.com/admin/login",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
+    "title": "Oksana Tatarina",
+    "imageSrc": "projects/oksana_tatarina.JPG",
+    "description": "Landing page for online school.",
+    "skills": ["HTML", "CSS", "JavaScript", "Bootstrap", "jQuery"],
+    "demo": "https://tatarina.intita.com/",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "title": "German Tutor",
+    "imageSrc": "projects/german_tutor.JPG",
+    "description": "Landing page for German language tutor.",
+    "skills": ["HTML", "CSS", "JavaScript", "Bootstrap", "Swiper"],
+    "demo": "https://pokhilkodarina.intita.com/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Travel Agency",
+    "imageSrc": "projects/travel_agensy.JPG",
+    "description": "Landing page for travel agency.",
+    "skills": ["HTML", "CSS", "JavaScript", "Bootstrap", "jQuery"],
+    "demo": "https://travelagency.intita.com/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "IT Uspih",
+    "imageSrc": "projects/it_uspih.JPG",
+    "description": "Landing page for IT Academy.",
+    "skills": ["HTML", "CSS", "JavaScript", "jQuery", "Swiper"],
+    "demo": "https://it.uspih.vn.ua/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Dobrogo vechora light",
+    "imageSrc": "projects/dobrogo_vechora.JPG",
+    "description": "Landing page for IT Academy.",
+    "skills": ["HTML", "CSS", "JavaScript", "Bootstrap", "Swiper"],
+    "demo": "https://dobrogolight.intita.com/",
     "source": "https://www.github.com"
   }
 ]
