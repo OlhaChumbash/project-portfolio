@@ -1,0 +1,23 @@
+{
+    "portfolio": "Portfolio",
+    "about": "About",
+    "about_imageAlt": "My foto",
+    "about_cursorIconAlt": "Cursor icon",
+    "about_serverIconAlt": "Server icon",
+    "about_uiIconAlt": "UI icon",
+    "about_frontendDeveloperTitle": "Frontend Developer",
+    "about_frontendDeveloperDescription": "I'm a frontend developer with experience in building responsive and optimized sites",
+    "about_backendDeveloperTitle": "Backend Developer",
+    "about_backendDeveloperDescription": "With backend development experience, I've built efficient, scalable server-side solutions using Node.js, MongoDB, and Express, focusing on robust APIs and effective data management.",
+    "about_uiDesignerTitle": "UI Designer",
+    "about_uiDesignerDescription": "I have designed multiple landing pages and have created design systems as well",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact",
+    "english": "EN",
+    "ukrainian": "UA",
+    "hero_title": "Hi, I'm Olha",
+    "hero_description": "I'm a trainee full-stack developer with a strong enthusiasm for learning and growth. I’m passionate about exploring new technologies and applying my skills to real-world projects.",
+    "hero_resume_button": "Download my Resume",
+    "contact_description": "Feel free to reach out!"   
+}
