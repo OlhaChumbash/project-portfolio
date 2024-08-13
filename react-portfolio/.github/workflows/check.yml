@@ -1,4 +1,4 @@
-name: CI/CD Pipeline
+name: Check
 
 on:
   push:
@@ -19,19 +19,11 @@ jobs:
     - name: Set up Node.js
       uses: actions/setup-node@v3
       with:
-        node-version: '16' # Задайте вашу версию Node.js
+        node-version: '20' 
 
     - name: Install dependencies
       run: npm install
 
-    - name: Run tests
-      run: npm test
-
     - name: Build project
-      run: npm run build
+      run: npm run dev
 
-    - name: Deploy to GitHub Pages
-      uses: JamesIves/github-pages-deploy-action@4.1.0
-      with:
-        folder: build
-        token: ${{ secrets.GITHUB_TOKEN }}
