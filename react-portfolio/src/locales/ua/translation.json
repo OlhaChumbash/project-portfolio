@@ -1,0 +1,23 @@
+{
+    "portfolio": "Портфоліо",
+    "about": "Про мене",
+    "about_imageAlt": "Моє фото",
+    "about_cursorIconAlt": "Іконка курсора",
+    "about_serverIconAlt": "Іконка сервера",
+    "about_uiIconAlt": "Іконка UI",
+    "about_frontendDeveloperTitle": "Frontend розробник",
+    "about_frontendDeveloperDescription": "Я frontend розробник з досвідом у створенні адаптивних і оптимізованих сайтів",
+    "about_backendDeveloperTitle": "Backend розробник",
+    "about_backendDeveloperDescription": "Маючи досвід бекенд-розробки, я створив ефективні, масштабовані серверні рішення з використанням Node.js, MongoDB та Express, зосередившись на надійних API та ефективному управлінні даними.",
+    "about_uiDesignerTitle": "UI дизайнер",
+    "about_uiDesignerDescription": "Я розробляла декілька лендінг сторінок і створювала дизайн-системи",
+    "skills": "Навички",
+    "projects": "Проекти",
+    "contact": "Контакт",
+    "english": "EN",
+    "ukrainian": "UA",
+    "hero_title": "Привіт, я Ольга",
+    "hero_description": "Я full-stack розробник з великим ентузіазмом до навчання і зростання. Мене захоплює вивчення нових технологій і застосування моїх навичок у реальних проектах.",
+    "hero_resume_button": "Завантажте моє резюме",
+    "contact_description": "Буду рада співпраці!"
+}

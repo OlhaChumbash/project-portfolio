@@ -1,49 +1,61 @@
 [  {
     "title": "Kava Veterana",
     "imageSrc": "projects/kava_veterana.JPG",
-    "description": "Admin Panel for Mobile Application.",
+    "description": {
+            "en": "Admin Panel for Mobile Application.",
+            "ua": "Панель адміністратора для мобільного додатку."
+        },
     "skills": ["NodeJs", "JavaScript", "MongoDB", "jQuery", "Ejs"],
-    "demo": "https://kavaveterana-api.intita.com/admin/login",
-    "source": "https://www.github.com"
+    "demo": "https://kavaveterana-api.intita.com/admin/login"   
   },
   {
     "title": "Oksana Tatarina",
     "imageSrc": "projects/oksana_tatarina.JPG",
-    "description": "Landing page for online school.",
+    "description": {
+        "en": "Landing page for online school.",
+        "ua": "Лендінг сторінка для онлайн школи."
+    },  
     "skills": ["HTML", "CSS", "JavaScript", "Bootstrap", "jQuery"],
-    "demo": "https://tatarina.intita.com/",
-    "source": "https://www.github.com"
+    "demo": "https://tatarina.intita.com/"   
   },
   {
     "title": "German Tutor",
     "imageSrc": "projects/german_tutor.JPG",
-    "description": "Landing page for German language tutor.",
+    "description": {
+        "en": "Landing page for German language tutor.",
+        "ua": "Лендінг сторінка для  репетитора німецької мови."
+    },  
     "skills": ["HTML", "CSS", "JavaScript", "Bootstrap", "Swiper"],
-    "demo": "https://pokhilkodarina.intita.com/",
-    "source": "https://www.github.com"
+    "demo": "https://pokhilkodarina.intita.com/"  
   },
   {
     "title": "Travel Agency",
     "imageSrc": "projects/travel_agensy.JPG",
-    "description": "Landing page for travel agency.",
+    "description": {
+        "en": "Landing page for travel agency.",
+        "ua": "Лендінг сторінка для туристичної агенції"
+    },     
     "skills": ["HTML", "CSS", "JavaScript", "Bootstrap", "jQuery"],
-    "demo": "https://travelagency.intita.com/",
-    "source": "https://www.github.com"
+    "demo": "https://travelagency.intita.com/"    
   },
   {
     "title": "IT Uspih",
     "imageSrc": "projects/it_uspih.JPG",
-    "description": "Landing page for IT Academy.",
+    "description": {
+        "en": "Landing page for IT Academy.",
+        "ua": "Лендінг сторінка для IT Академії."
+    },   
     "skills": ["HTML", "CSS", "JavaScript", "jQuery", "Swiper"],
-    "demo": "https://it.uspih.vn.ua/",
-    "source": "https://www.github.com"
+    "demo": "https://it.uspih.vn.ua/"   
   },
   {
     "title": "Dobrogo vechora light",
     "imageSrc": "projects/dobrogo_vechora.JPG",
-    "description": "Landing page for IT Academy.",
+    "description": {
+        "en": "Landing page for IT Academy.",
+        "ua": "Лендінг сторінка для IT Академії."
+    },
     "skills": ["HTML", "CSS", "JavaScript", "Bootstrap", "Swiper"],
-    "demo": "https://dobrogolight.intita.com/",
-    "source": "https://www.github.com"
+    "demo": "https://dobrogolight.intita.com/"   
   }
 ]
