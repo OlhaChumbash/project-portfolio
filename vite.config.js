@@ -9,19 +9,17 @@ export default defineConfig({
       targets: [
         {
           src: 'src/assets/hero/',
-          dest: 'assets',
-          flatten: false,
-          rename: (file) => file.name,
+          dest: '', 
         },
       ],
     }),
   ],
   build: {
     outDir: 'dist',
-    assetsDir: 'assets',
+    assetsDir: 'assets', 
     rollupOptions: {
       output: {
-        assetFileNames: '[name].[ext]',
+        assetFileNames: 'assets/[name].[ext]', 
       },
     },
   },
