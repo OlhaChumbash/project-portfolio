@@ -8,8 +8,8 @@ export const Hero = () => {
 
 
   const resumeUrl = i18n.language === 'en' 
-    ? "assets/hero/Olha_Chumbash_resume_en.docx" 
-    : "assets/hero/Olha_Chumbash_resume_ua.docx";
+    ? "/assets/hero/Olha_Chumbash_resume_en.docx" 
+    : "/assets/hero/Olha_Chumbash_resume_ua.docx";
 
   return (
     <section className={styles.container}>
