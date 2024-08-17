@@ -19,7 +19,7 @@ export const Hero = () => {
           {t('hero_description')}
         </p>
         <a 
-          href={resumeUrl}  // Используем динамически изменяемый путь
+          href={resumeUrl}  
           download 
           className={styles.contactBtn}
         >
