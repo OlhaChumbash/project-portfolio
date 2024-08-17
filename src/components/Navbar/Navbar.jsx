@@ -1,4 +1,3 @@
-// src/components/Navbar.js
 import React, { useState } from "react";
 import { useTranslation } from 'react-i18next';
 import styles from "./Navbar.module.css";
@@ -8,7 +7,6 @@ export const Navbar = () => {
     const [menuOpen, setMenuOpen] = useState(false);
     const { t, i18n } = useTranslation();
 
-    // Функция для установки языка
     const setLanguage = (lang) => {
         i18n.changeLanguage(lang);
     };
