@@ -48,16 +48,17 @@
   font-weight: 600;
   padding: 17px 26px;
   box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+  text-align: center;
 }
 
 .heroImg {
-  width: 30%;
+  width: 25%;
   z-index: 1;
-
   animation-name: floating;
   animation-duration: 3s;
   animation-iteration-count: infinite;
-  animation-timing-function: ease-in-out;
+  animation-timing-function: ease-in-out; 
+  margin-left: 15%;
 }
 
 @keyframes floating {
@@ -101,11 +102,17 @@
 }
 
 @media screen and (max-width: 830px) {
+    
+.heroImg {
+    width: 60%;  
+    margin-bottom: 35px;
+    margin-left: 0;
+  }
   .container {
     flex-direction: column-reverse;
   }
 
   .content {
-    align-items: center;
+    align-items:center;
   }
 }
