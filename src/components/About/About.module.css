@@ -50,7 +50,7 @@
   );
   background-size: 0 100%;
   background-repeat: no-repeat;
-  transition: 0.4s;
+  transition: 0.4s; 
 }
 
 .aboutItem:hover {
@@ -61,10 +61,13 @@
   font-size: 25px;
   font-weight: 600;
   margin-bottom: 5px;
+  padding-left: 10px;
 }
 
 .aboutItem p {
   font-size: 25px;
+  padding-left: 10px;
+  
 }
 
 @media screen and (max-width: 830px) {
@@ -88,6 +91,6 @@
 
   .aboutItem {
     padding-left: 0;
-    padding-right: 0;
+    padding-right: 0; 
   }
 }
